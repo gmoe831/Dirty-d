@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://dirty-d-9mcb.onrender.com"; // Render will proxy /api to backend when deployed on Render. Locally, use full URL to your Render service.
+const BACKEND_URL = "https://dirty-d-9mcb.onrender.com" // Render will proxy /api to backend when deployed on Render. Locally, use full URL to your Render service.
 
 const chatBox = document.getElementById('chat');
 const recordBtn = document.getElementById('recordBtn');
