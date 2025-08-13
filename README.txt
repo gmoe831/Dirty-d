@@ -1,0 +1,1 @@
+Backend: Flask app. Deploy on Render or any Python host. memory.db will persist conversation history.

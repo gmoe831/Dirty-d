@@ -1,0 +1,1 @@
+Upload repo to GitHub. Enable Pages from /docs. Deploy backend to Render (from same repo).
